@@ -22,7 +22,5 @@ yarn-error.log*
 /.vscode
 /.idea
 /.git
-/public
-/src
 /.env
 
