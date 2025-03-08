@@ -13,7 +13,7 @@ module.exports = {
   projectName : "Sathii",
 
   //baseURL
-  baseURL: "http://137.184.206.81:5000/",
+  baseURL: "https://sathii.swajon.org/",
 
   //Secret key for API
   secretKey: "ariyan000@",

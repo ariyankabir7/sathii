@@ -1,3 +1,3 @@
-export const baseURL = "http://137.184.206.81:5000/";
+export const baseURL = "https://sathii.swajon.org/";
 export const secretKey = "ariyan000@";
 export const projectName = "Sathii";
