@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.937c797b.css",
+    "main.js": "/static/js/main.7ec5d5ae.js",
+    "static/js/787.11669714.chunk.js": "/static/js/787.11669714.chunk.js",
+    "static/media/login.png": "/static/media/login.24b5ccffd0525d34f243.png",
+    "static/media/profile-back.jpeg": "/static/media/profile-back.996370468a45587f5361.jpeg",
+    "static/media/card.jpeg": "/static/media/card.aff35f186a595f856d49.jpeg",
+    "static/media/card2.jpg": "/static/media/card2.d4741967c990e9817f0b.jpg",
+    "static/media/ic_gift.png": "/static/media/ic_gift.7b7e963998a38480f8e7.png",
+    "static/media/male.png": "/static/media/male.6034d647e0102fa5c39a.png",
+    "static/media/moneybag.png": "/static/media/moneybag.12448ec3f2024fe7acf5.png",
+    "static/media/videocall.png": "/static/media/videocall.4bd53f03e97f0fdcb398.png",
+    "static/media/withdraw.png": "/static/media/withdraw.435d90a616eba35c10ba.png",
+    "static/media/ads.png": "/static/media/ads.ebc6e1a75fecc38ab9d8.png",
+    "static/media/diamond.png": "/static/media/diamond.a3026fb90713e67d517f.png",
+    "static/media/profile-image.png": "/static/media/profile-image.34d278df0d7c20453c97.png",
+    "static/media/500.svg": "/static/media/500.1302e3e3625fac149de4.svg",
+    "index.html": "/index.html",
+    "main.937c797b.css.map": "/static/css/main.937c797b.css.map",
+    "main.7ec5d5ae.js.map": "/static/js/main.7ec5d5ae.js.map",
+    "787.11669714.chunk.js.map": "/static/js/787.11669714.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937c797b.css",
+    "static/js/main.7ec5d5ae.js"
+  ]
+}
