@@ -1,3 +1,3 @@
-export const baseURL = "http://localhost:3000/";
-export const secretKey = "ariyan000@";
-export const projectName = "Sathii";
+exports.baseURL = "";
+exports.secretKey = "";
+exports.projectName = "";
